@@ -29,7 +29,7 @@ This neural network learns the underlying patterns in Google's stock data using:
 - **Predicted Close Price:** `179.21`
 
 
-📦 Features Used
+Features Used
 
 | Feature        | Description              |
 |----------------|--------------------------|
