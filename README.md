@@ -1,6 +1,6 @@
 # Google Closing Price Predictor (Neural Network)
 
-A deep learning model that predicts **Google’s stock closing price** based on historical daily trading data. The model uses a fully connected neural network trained on open, high, low, and volume data to estimate the close price — with impressive accuracy.
+A TensorFlow deep learning model that predicts **Google’s stock closing price** based on historical daily trading data. The model uses a fully connected neural network trained on open, high, low, and volume data to estimate the close price — with impressive accuracy.
 
 
 ## Model Summary
