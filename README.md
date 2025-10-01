@@ -36,7 +36,7 @@ Features Used
 | `1. open`      | Opening price            |
 | `2. high`      | Daily high               |
 | `3. low`       | Daily low                |
-| `5. volume`    | Trading volume           |
+| `4. volume`    | Trading volume           |
 
 
 
